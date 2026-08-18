@@ -1,11 +1,25 @@
 # Calculator for Distance Between 2 Points on a Cartesian Plane
 
-## This program calculates the distance between 2 points/coordinates [(x1, y1) and (x2, y2)] on a cartesian plane.
+## Description
+This README document explains how the program calculates the distance between 2 points/coordinates [(x1, y1) and (x2, y2)] on a cartesian plane.
 
-## To run the program, firstly, you need to import the math library. 
-## After importing the math library, you have to define your variables (x1, y1, x2, y2) by the input given.
-## After, you insert the formula for distance of coordinates using the predefined functions from the math library (pow, sqrt). 
-## Lastly, print the distance to display the results.
+## How to run
+1. Open the file in Google Colab
+2. Run the program
+3. Enter the values for the variables
+4. Verify the printed distance
 
-## For the input, you need to input the value of the coordinates x1, y1, x2, and y2.
+## Input needed
+For the input, you need to input the value of the coordinates x1, y1, x2, and y2.
+
+## Sample Output
+Enter x1: 2
+Enter y1: 3
+Enter x2: 7
+Enter y2: 8
+The distance between the two points is: 7.07
+
+##Author
+Carvajal, Alecs Andrea S. 
+Grade 8 - Narra
 
